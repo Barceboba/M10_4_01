@@ -1,0 +1,9 @@
+- Exercici 2
+Crear projecte amb el nom CursVueJS. *Noms de projecte abominen de majúscules
+
+
+- Tasca M10.4 01-Entrega d´exercici d´instal·lació
+Criteris de qualificació *Catañyol per tothom
+
+
+- Desconec d'on apareix arxiu HelloWorld.scss
